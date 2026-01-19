@@ -3,6 +3,7 @@
 This is a collection of the planner pages I currenty use.
 
 `/src/` contains the source files that generate them via SkwtchWow
+
 `/pages/` contains the exported images that get printed.
 
 Currently using a custom paper size that matches HappyPlanner's default size, 184 x 241mm
