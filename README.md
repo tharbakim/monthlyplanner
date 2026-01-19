@@ -14,8 +14,8 @@ Bound together with HappyPlanner's mushroom punch and some generic discs.
 My typical workflow for a monthly book consists of:
 * 1x `monthcover.png`
 * 1x `MonthConclusion.png`
-* (days of the month)x DayPage[#].png + DailySummary.png (double sided)
-* (number of Saturdays) x WeeklySmmary.png + WeeklySummary2.png (double sided)
+* (days of the month)x `DayPage[#].png` + `DailySummary.png` (double sided)
+* (number of Saturdays) x `WeeklySmmary.png` + `WeeklySummary2.png` (double sided)
 * 1x `month-brags.png`
 * 1x `month-closing.png`
 
